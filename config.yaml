@@ -1,0 +1,16 @@
+code: 131121
+gijiroku: data/gijiroku.csv
+giin: data/giin.csv
+iinkai: data/iinkai.csv
+years: data/years.csv
+jogai: data/exclusion.csv
+font: static/ShipporiMinchoB1-ExtraBold.ttf
+target:
+  place: 世田谷区
+  start: 2009年11月
+  end: 2022年10月
+  url: https://www.city.setagaya.lg.jp/kugikai/008/d00117292.html
+developer:
+  name: 岡村健一
+  contact: https://twitter.com/Okamura_Kenichi
+  img: static/developer.png
